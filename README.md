@@ -1,4 +1,4 @@
-# AI Explained for Anyone  
+<image-card alt="AI Explained Banner" src="https://via.placeholder.com/800x200/4a90e2/ffffff?text=AI+Explained+for+Anyone" ></image-card>  # AI Explained for Anyone  
 *Super simple guide — no jargon, no scary words. For kids, grandparents, parents, friends… literally anyone. 5–10 min read.*
 
 **1. AI in One Sentence**  
